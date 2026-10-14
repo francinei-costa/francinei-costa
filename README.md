@@ -31,13 +31,13 @@ Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência 
 
 ## 🚀 Projetos em destaque
 
-### 1. [nest](https://github.com/francinei-costa/nest-api)
+### 1. [nestApi](https://github.com/francinei-costa/nest-api)
 
 API REST para gerenciamento de cursos e tags, com relacionamento entre entidades.
 
 **Tecnologias:** NestJS · TypeORM · PostgreSQL · Docker
 
-### 2. [node](https://github.com/francinei-costa/node-cleanarch)
+### 2. [nodeCleanarch](https://github.com/francinei-costa/node-cleanarch)
 
 Projeto em Node.js que demonstra a organização de responsabilidades com Clean Architecture.
 
