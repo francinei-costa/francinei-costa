@@ -1,289 +1,117 @@
 # Francinei Cardoso Costa
 
 <p align="center">
-  <strong>🚀 Desenvolvedor Front-End | Full-Stack | React.js | Next | TypeScript | Node.js | Tailwind CSS</strong>
+  <strong>Desenvolvedor Full Stack · React · TypeScript · Node.js</strong>
 </p>
 
 <p align="center">
-  Construo aplicações web escaláveis com <strong>arquitetura limpa</strong>, foco em <strong>qualidade técnica</strong> e <strong>entrega de valor real</strong> ao negócio.
+  Desenvolvo aplicações web com foco em arquitetura bem estruturada, código sustentável e experiências úteis para as pessoas.
 </p>
 
 ---
 
-## 👨‍💻 Sobre
+## Sobre mim
 
-Desenvolvedor Full Stack com experiência sólida em **front-end**, **back-end**, **integrações** e **soluções em tempo real**.
+Sou desenvolvedor Full Stack com experiência na construção de interfaces, APIs e integrações. Gosto de transformar necessidades de produto em soluções claras, escaláveis e fáceis de manter.
 
-Atuo na construção de software orientado à:
-- ✨ **Qualidade técnica** e **manutenibilidade**
-- 🎯 **Escalabilidade** e **performance**
-- 🎨 **Experiência do usuário** e impacto no produto
+### Competências
 
-Tenho vivência em projetos que exigem **arquitetura limpa**, **comunicação eficiente** entre sistemas e **evolução sustentável** de código.
-
----
-
-## ✅ Principais Forças
-
-| Área | Tecnologias |
-|------|-------------|
-| **Frontend** | React · TypeScript · Angular · Next.js · Vite · Tailwind CSS · HTML · CSS |
-| **Backend** | Node.js · Express · FastAPI · Python  |
-| **Tempo Real** | WebSocket · SignalR · Fastify |
-| **Dados** | SQL Server · MySQL · Oracle |
-| **DevOps** | Git · GitHub · GitLab · Docker |
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Front-end | React, TypeScript, Angular, Next.js, Vite, Tailwind CSS |
+| Back-end | Node.js, NestJS, Express, Fastify, Python, FastAPI, .NET |
+| Dados | PostgreSQL, SQL Server, MySQL, Oracle |
+| Arquitetura e qualidade | Clean Architecture, Clean Code, SOLID, testes automatizados |
+| Ferramentas | Git, GitHub, GitLab, Docker |
+| Tempo real | WebSocket, SignalR |
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em destaque
 
-### 1️⃣ [next-pokemon](https://github.com/francinei-costa/next-pokemon)
+Projetos selecionados que demonstram minha experiência com APIs, aplicações full stack, arquitetura e comunicação em tempo real.
 
-**Catálogo Pokémon - Next.js + PokeAPI**
+### 1. [nest-api](https://github.com/francinei-costa/nest-api)
 
-Aplicação moderna de catálogo com **251 Pokémon** utilizando **Next.js 16** com App Router e integração com **PokeAPI pública**. Demonstra SSR, geração estática e otimização de performance.
+API REST para gerenciamento de cursos e tags, com relacionamento entre entidades.
 
-**Badges:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+**Tecnologias:** NestJS · TypeORM · PostgreSQL · Docker
 
-**Destaques:**
-- ✅ App Router do Next.js com rotas dinâmicas
-- ✅ Server-Side Rendering (SSR) e Static Generation
-- ✅ Integração com PokeAPI pública
-- ✅ Renderização estática otimizada (primeiros 10 Pokémon)
-- ✅ Design responsivo com Tailwind CSS
-- ✅ Tipos de Pokémon com cores específicas
+### 2. [node-cleanarch](https://github.com/francinei-costa/node-cleanarch)
 
-**Stack Técnico:**
-- **Framework:** Next.js 16.3.0 + App Router
-- **Frontend:** React 19 + TypeScript 5
-- **Styling:** Tailwind CSS 4
-- **API:** PokeAPI pública (https://pokeapi.co/)
-- **Performance:** ISR (Incremental Static Regeneration)
+Projeto em Node.js que demonstra a organização de responsabilidades com Clean Architecture.
 
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/next-pokemon)
-- 🌐 [Demo ao vivo](https://next-pokemon-alpha.vercel.app)
+**Foco:** Node.js · Clean Architecture
 
----
+### 3. [react-fastapi](https://github.com/francinei-costa/react-fastapi)
 
-### 2️⃣ [Parking Control](https://github.com/francinei-costa/fastapi-clean-arch)
+Aplicação full stack de controle de estacionamento, com interface React e API em FastAPI.
 
-**Controle de Estacionamento - Full Stack**
+**Tecnologias:** React · TypeScript · FastAPI · PostgreSQL · Docker
 
-Aplicação completa de controle de estacionamento com frontend em **React** e backend em **FastAPI**, demonstrando aplicação prática de **Clean Architecture**.
+### 4. [react-graphql](https://github.com/francinei-costa/react-graphql)
 
-**Badges:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+Aplicação para explorar episódios de Rick and Morty, com busca, favoritos e detalhes dos episódios.
 
-**Destaques:**
-- ✅ Separação clara de responsabilidades
-- ✅ Padrão de arquitetura em camadas
-- ✅ Integração eficiente front-end ↔ API
-- ✅ Validação de dados com Pydantic
+**Tecnologias:** React · TypeScript · GraphQL · Zustand
 
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/fastapi-clean-arch)
+### 5. [react-digital-parking](https://github.com/francinei-costa/react-digital-parking)
 
----
+Aplicação web de estacionamento digital, com foco em uma experiência simples para os usuários.
 
-### 3️⃣ [crm-system](https://github.com/francinei-costa/crm-system)
+**Foco:** React · estacionamento digital
 
-**CRM para Gestão de Leads e Fluxo Comercial**
+### 6. [react-microfrontend](https://github.com/francinei-costa/react-microfrontend)
 
-Sistema robusto de CRM para gerenciamento de leads e pipeline comercial. Demonstra visão de negócio aplicada ao desenvolvimento.
+Exemplo de arquitetura microfrontend com aplicações independentes integradas por Module Federation.
 
-**Badges:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**Tecnologias:** React · TypeScript · Vite · Module Federation
 
-**Destaques:**
-- 📊 Dashboard com métricas
-- 🔄 React Query para gerenciamento de estado
-- 📝 Formulários com React Hook Form e Zod
-- 🧪 Testes com Vitest
-- 🎨 UI responsiva com design system
+### 7. [react-websocket](https://github.com/francinei-costa/react-websocket)
 
-**Stack Técnico:**
-- **Frontend:** React 19 + TypeScript + Vite + TanStack Query
-- **Backend:** Node.js + Express + TypeScript
-- **Validação:** React Hook Form + Zod
-- **Testing:** Vitest + Testing Library
+Chat em tempo real organizado em frontend, backend e contratos compartilhados.
 
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/crm-system)
+**Tecnologias:** React · TypeScript · Fastify · WebSocket
+
+### 8. [react-signalR](https://github.com/francinei-costa/react-signalR)
+
+Aplicação de chat em tempo real com interface React e comunicação via SignalR.
+
+**Tecnologias:** React · SignalR · ASP.NET Core · MySQL
+
+### 9. [react-crm-system](https://github.com/francinei-costa/react-crm-system)
+
+Sistema de gerenciamento de leads com integração ao HubSpot.
+
+**Tecnologias:** React · TypeScript · Express · HubSpot
 
 ---
 
-### 4️⃣ [react-dotnet](https://github.com/francinei-costa/react-dotnet)
+## Contato
 
-**Aplicação Full Stack - React + .NET**
-
-Integração sólida entre **React** no front-end e **.NET** no back-end, demonstrando boas práticas de separação de responsabilidades e design de API.
-
-**Badges:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Destaques:**
-- 🏗️ Arquitetura em camadas bem definida
-- 🔌 API RESTful robusta em .NET
-- 🎨 Interface intuitiva com React + Bootstrap
-- 🔑 Gestão de estado eficiente
-- 📱 Componentes reutilizáveis
-
-**Stack Técnico:**
-- **Frontend:** React 19 + TypeScript + Bootstrap + FontAwesome
-- **Backend:** .NET C# com arquitetura em camadas
-- **UI Components:** React Bootstrap
-
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/react-dotnet)
+<p align="center">
+  <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" />
+  </a>
+  <a href="mailto:francinei_cardoso@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Entre em contato por e-mail" />
+  </a>
+  <a href="https://github.com/francinei-costa">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acesse meu perfil no GitHub" />
+  </a>
+</p>
 
 ---
 
-### 5️⃣ [episodes-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
-
-**Desafio Front-end - Rick and Morty API**
-
-Aplicação front-end com foco em **experiência de usuário**, **componentização** e **consumo de API externa**. Demonstra organização de código em React + TypeScript.
-
-**Badges:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Destaques:**
-- 🧩 Componentes bem estruturados e reutilizáveis
-- 🎯 Integração com API pública
-- 🔍 Busca e filtros eficientes
-- 📱 Design responsivo
-- ⚡ Performance otimizada
-
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/azs-web-rickandmorty)
-
----
-
-### 6️⃣ [websocket](https://github.com/francinei-costa/websocket)
-
-**Comunicação em Tempo Real - WebSocket Architecture**
-
-Arquitetura orientada a **eventos** para comunicação em tempo real. Demonstra uso avançado de **WebSocket**, gestão de estado assíncrono e design de sistemas reativos.
-
-**Badges:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
-
-**Destaques:**
-- 🔄 Comunicação bidirecional em tempo real
-- 📡 Arquitetura orientada a eventos
-- ⚡ Server de alta performance com Fastify
-- 🎨 Frontend reativo com React 19
-- 🔌 Sincronização automática de estado
-
-**Stack Técnico:**
-- **Frontend:** React 19 + TypeScript + Vite
-- **Backend:** Fastify + WebSocket + TypeScript
-- **Comunicação:** @fastify/websocket
-- **CORS:** Habilitado para múltiplos domínios
-
-**Links:**
-- 📂 [Repositório](https://github.com/francinei-costa/websocket)
-
----
-
-## 🛠️ Stack Técnico Consolidado
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-### **Tempo Real**
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white)
-
-### **Banco de Dados**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 🎯 Metodologias & Práticas
-
-- 📐 **Clean Architecture** — Separação de responsabilidades e camadas bem definidas
-- ✅ **Clean Code** — Código legível, manutenível e sustentável
-- 🧪 **Testing** — Testes unitários e de integração (Vitest, Jest, xUnit)
-- 🔄 **CI/CD** — Automação de build e deploy
-- 📊 **SOLID Principles** — Boas práticas de design orientado a objetos
-- 🎨 **Responsive Design** — Mobile-first e acessibilidade
-- ⚡ **Performance** — Otimização e Web Vitals
-
----
-
-## 📫 Contato & Links
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:francinei_cardoso@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francinei-costa)
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## Atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/francinei-costa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francinei-costa&show_icons=true&theme=blue-green&include_all_commits=true" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinei-costa&layout=compact&theme=blue-green" alt="Top languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francinei-costa&show_icons=true&theme=blue-green&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinei-costa&layout=compact&theme=blue-green" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=francinei-costa&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=francinei-costa&theme=react&background=000&border=30A3DC&dates=FFF" alt="Sequência de contribuições no GitHub" />
 </div>
-
----
-
-<p align="center">
-  <strong>🔨 Desenvolvendo soluções de qualidade, uma linha de código por vez.</strong>
-</p>
