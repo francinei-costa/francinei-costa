@@ -79,7 +79,7 @@ Aplicação de chat em tempo real com interface React e comunicação via Signal
 
 **Tecnologias:** React · SignalR · ASP.NET Core · MySQL
 
-### 9. [crm-system](https://github.com/francinei-costa/react-crm-system)
+### 9. [crm system](https://github.com/francinei-costa/react-crm-system)
 
 Sistema de gerenciamento de leads com integração ao HubSpot.
 
