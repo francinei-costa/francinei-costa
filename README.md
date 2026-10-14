@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Desenvolvedor+Full+Stack;React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+e+Full+Stack;React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência na construção de interfaces, APIs e integrações. Gosto de transformar necessidades de produto em soluções claras, escaláveis e fáceis de manter.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - 🎨 **Front-end:** React, TypeScript, Angular, Next.js, Vite, Tailwind CSS, HTML, CSS, JavaScript
 - ⚙️ **Back-end:** Node.js, NestJS, Express, Fastify, Python, FastAPI, .NET, C#
@@ -29,7 +29,7 @@ Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência 
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### 1. [nest-api](https://github.com/francinei-costa/nest-api)
 
@@ -87,7 +87,7 @@ Sistema de gerenciamento de leads com integração ao HubSpot.
 
 ---
 
-## Contato
+## 📬 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francinei-cardoso-costa-58212b90/">
@@ -103,7 +103,7 @@ Sistema de gerenciamento de leads com integração ao HubSpot.
 
 ---
 
-## Atividade no GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/francinei-costa">
