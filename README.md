@@ -1,7 +1,11 @@
 # Francinei Cardoso Costa
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack · React · TypeScript · Node.js</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Francinei%20Cardoso%20Costa&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Francinei Cardoso Costa" />
+</p>
+
+<p align="center">
+  <strong>Desenvolvedor Front-end e Full Stack · React · TypeScript · Node.js</strong>
 </p>
 
 <p align="center">
@@ -12,7 +16,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com experiência na construção de interfaces, APIs e integrações. Gosto de transformar necessidades de produto em soluções claras, escaláveis e fáceis de manter.
+Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência na construção de interfaces, APIs e integrações. Gosto de transformar necessidades de produto em soluções claras, escaláveis e fáceis de manter.
 
 ### Competências
 
