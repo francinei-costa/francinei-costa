@@ -49,7 +49,7 @@ Aplicação full stack de controle de estacionamento, com interface React e API 
 
 **Tecnologias:** React · TypeScript · FastAPI · PostgreSQL · Docker
 
-### 4. [graphql](https://github.com/francinei-costa/react-graphql)
+### 4. [rick and morty](https://github.com/francinei-costa/react-graphql)
 
 Aplicação para explorar episódios de Rick and Morty, com busca, favoritos e detalhes dos episódios.
 
