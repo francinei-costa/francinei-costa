@@ -1,11 +1,7 @@
 # Francinei Cardoso Costa
 
-<p align="right">
-  <a href="./README.en.md">English version</a>
-</p>
-
 <p align="center">
-  <strong>🚀 Desenvolvedor Full-Stack | React.js | Angular | TypeScript | Node.js | Python | C# | .NET</strong>
+  <strong>🚀 Desenvolvedor Front-End | Full-Stack | React.js | Next | TypeScript | Node.js | Tailwind CSS</strong>
 </p>
 
 <p align="center">
@@ -32,7 +28,7 @@ Tenho vivência em projetos que exigem **arquitetura limpa**, **comunicação ef
 | Área | Tecnologias |
 |------|-------------|
 | **Frontend** | React · TypeScript · Angular · Next.js · Vite · Tailwind CSS · HTML · CSS |
-| **Backend** | Node.js · Express · FastAPI · Python · .NET · C# |
+| **Backend** | Node.js · Express · FastAPI · Python  |
 | **Tempo Real** | WebSocket · SignalR · Fastify |
 | **Dados** | SQL Server · MySQL · Oracle |
 | **DevOps** | Git · GitHub · GitLab · Docker |
