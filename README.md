@@ -1,4 +1,4 @@
-# Francinei Cardoso Costa
+<!--# Francinei Cardoso Costa -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Francinei%20Cardoso%20Costa&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Francinei Cardoso Costa" />
@@ -31,55 +31,55 @@ Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência 
 
 ## 🚀 Projetos em destaque
 
-### 1. [nest-api](https://github.com/francinei-costa/nest-api)
+### 1. [nest](https://github.com/francinei-costa/nest-api)
 
 API REST para gerenciamento de cursos e tags, com relacionamento entre entidades.
 
 **Tecnologias:** NestJS · TypeORM · PostgreSQL · Docker
 
-### 2. [node-cleanarch](https://github.com/francinei-costa/node-cleanarch)
+### 2. [node](https://github.com/francinei-costa/node-cleanarch)
 
 Projeto em Node.js que demonstra a organização de responsabilidades com Clean Architecture.
 
 **Foco:** Node.js · Clean Architecture
 
-### 3. [react-fastapi](https://github.com/francinei-costa/react-fastapi)
+### 3. [fastApi](https://github.com/francinei-costa/react-fastapi)
 
 Aplicação full stack de controle de estacionamento, com interface React e API em FastAPI.
 
 **Tecnologias:** React · TypeScript · FastAPI · PostgreSQL · Docker
 
-### 4. [react-graphql](https://github.com/francinei-costa/react-graphql)
+### 4. [graphql](https://github.com/francinei-costa/react-graphql)
 
 Aplicação para explorar episódios de Rick and Morty, com busca, favoritos e detalhes dos episódios.
 
 **Tecnologias:** React · TypeScript · GraphQL · Zustand
 
-### 5. [react-digital-parking](https://github.com/francinei-costa/react-digital-parking)
+### 5. [digital parking](https://github.com/francinei-costa/react-digital-parking)
 
 Aplicação web de estacionamento digital, com foco em uma experiência simples para os usuários.
 
 **Foco:** React · estacionamento digital
 
-### 6. [react-microfrontend](https://github.com/francinei-costa/react-microfrontend)
+### 6. [microfrontend](https://github.com/francinei-costa/react-microfrontend)
 
 Exemplo de arquitetura microfrontend com aplicações independentes integradas por Module Federation.
 
 **Tecnologias:** React · TypeScript · Vite · Module Federation
 
-### 7. [react-websocket](https://github.com/francinei-costa/react-websocket)
+### 7. [websocket](https://github.com/francinei-costa/react-websocket)
 
 Chat em tempo real organizado em frontend, backend e contratos compartilhados.
 
 **Tecnologias:** React · TypeScript · Fastify · WebSocket
 
-### 8. [react-signalR](https://github.com/francinei-costa/react-signalR)
+### 8. [signalR](https://github.com/francinei-costa/react-signalR)
 
 Aplicação de chat em tempo real com interface React e comunicação via SignalR.
 
 **Tecnologias:** React · SignalR · ASP.NET Core · MySQL
 
-### 9. [react-crm-system](https://github.com/francinei-costa/react-crm-system)
+### 9. [crm-system](https://github.com/francinei-costa/react-crm-system)
 
 Sistema de gerenciamento de leads com integração ao HubSpot.
 
