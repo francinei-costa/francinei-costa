@@ -20,35 +20,12 @@ Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência 
 
 ## Tecnologias
 
-**Front-end**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,angular,nextjs,vite,tailwind,html,css,js" alt="Front-end" />
-</p>
-
-**Back-end**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,python,fastapi,dotnet,cs" alt="Back-end" />
-</p>
-
-**Dados**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Dados" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-**Ferramentas**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode" alt="Ferramentas" />
-</p>
-
-**Arquitetura e qualidade:** Clean Architecture · Clean Code · SOLID · testes automatizados
-
-**Tempo real:** WebSocket · SignalR
+- 🎨 **Front-end:** React, TypeScript, Angular, Next.js, Vite, Tailwind CSS, HTML, CSS, JavaScript
+- ⚙️ **Back-end:** Node.js, NestJS, Express, Fastify, Python, FastAPI, .NET, C#
+- 🗄️ **Dados:** PostgreSQL, SQL Server, MySQL, Oracle, SQLite
+- 🧰 **Ferramentas:** Git, GitHub, GitLab, Docker, VS Code
+- 🧱 **Arquitetura e qualidade:** Clean Architecture, Clean Code, SOLID, testes automatizados
+- 🔄 **Tempo real:** WebSocket, SignalR
 
 ---
 
