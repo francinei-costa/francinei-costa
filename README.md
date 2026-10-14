@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end e Full Stack · React · TypeScript · Node.js</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Desenvolvedor+Full+Stack;React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,22 +18,41 @@
 
 Sou desenvolvedor com atuação em **Front-end e Full Stack**, com experiência na construção de interfaces, APIs e integrações. Gosto de transformar necessidades de produto em soluções claras, escaláveis e fáceis de manter.
 
-### Competências
+## Tecnologias
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| Front-end | React, TypeScript, Angular, Next.js, Vite, Tailwind CSS |
-| Back-end | Node.js, NestJS, Express, Fastify, Python, FastAPI, .NET |
-| Dados | PostgreSQL, SQL Server, MySQL, Oracle |
-| Arquitetura e qualidade | Clean Architecture, Clean Code, SOLID, testes automatizados |
-| Ferramentas | Git, GitHub, GitLab, Docker |
-| Tempo real | WebSocket, SignalR |
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,angular,nextjs,vite,tailwind,html,css,js" alt="Front-end" />
+</p>
+
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,python,fastapi,dotnet,cs" alt="Back-end" />
+</p>
+
+**Dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Dados" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode" alt="Ferramentas" />
+</p>
+
+**Arquitetura e qualidade:** Clean Architecture · Clean Code · SOLID · testes automatizados
+
+**Tempo real:** WebSocket · SignalR
 
 ---
 
 ## Projetos em destaque
-
-Projetos selecionados que demonstram minha experiência com APIs, aplicações full stack, arquitetura e comunicação em tempo real.
 
 ### 1. [nest-api](https://github.com/francinei-costa/nest-api)
 
